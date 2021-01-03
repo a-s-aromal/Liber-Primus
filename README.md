@@ -8,3 +8,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don’t like the idea that I’m not in control of myself.
+
+img src="https://github-readme-stats.vercel.app/api?username=Liber-Primus&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
