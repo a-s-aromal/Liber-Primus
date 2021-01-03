@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Reverse Engineering.
 - 💬 Ask me about any Tech related Stuff !
-- 📫 How to reach me: 
+- 📫 How to reach me: aromalajithas@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don’t like the idea that I’m not in control of myself.
 
